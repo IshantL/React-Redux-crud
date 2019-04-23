@@ -1,6 +1,8 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
+import { Link, Route } from 'react-router-dom';
+import GamesPage from './GamesPage';
 
 function App() {
   return (
@@ -18,7 +20,10 @@ function App() {
         >
           Learn React
         </a>
+        <Link to="games">Games</Link>
+        <Route exact path='/games' component={GamesPage}/>
       </header>
+      
     </div>
   );
 }
