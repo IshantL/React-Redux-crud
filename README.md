@@ -1,3 +1,11 @@
+## REDUX CRUD
+
+### Steps 
+
+1. Create Store- we need to create root reducer.
+2. Apply Middleware - redux thunk to create synchronous actions
+3. Provider -to wrap our app and provide store to it.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
