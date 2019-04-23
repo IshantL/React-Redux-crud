@@ -8,7 +8,8 @@
 
 ## Task 2
 1. install react-router
-2. 
+2. connect GamesPage component to redux--create container
+3. 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
