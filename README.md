@@ -9,7 +9,11 @@
 ## Task 2
 1. install react-router
 2. connect GamesPage component to redux--create container
-3. 
+
+## Task 3
+1. AJAX Request 
+2. Express JS Backend
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
